@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "SansationBold";
+  src: url("/fonts/sansation/Sansation-Bold-webfont.eot");
+  src: url("/fonts/sansation/Sansation-Bold-webfont.eot?#iefix") format("embedded-opentype"), url("/fonts/sansation/Sansation-Bold-webfont.woff2") format("woff2"), url("/fonts/sansation/Sansation-Bold-webfont.woff") format("woff"), url("/fonts/sansation/Sansation-Bold-webfont.ttf") format("truetype"), url("/fonts/sansation/Sansation-Bold-webfont.svg#SansationBold") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "SansationLight";
+  src: url("/fonts/sansation/Sansation-Light-webfont.eot");
+  src: url("/fonts/sansation/Sansation-Light-webfont.eot?#iefix") format("embedded-opentype"), url("/fonts/sansation/Sansation-Light-webfont.woff2") format("woff2"), url("/fonts/sansation/Sansation-Light-webfont.woff") format("woff"), url("/fonts/sansation/Sansation-Light-webfont.ttf") format("truetype"), url("/fonts/sansation/Sansation-Light-webfont.svg#SansationLight") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Sansation";
+  src: url("/fonts/sansation/Sansation-Regular-webfont.eot");
+  src: url("/fonts/sansation/Sansation-Regular-webfont.eot?#iefix") format("embedded-opentype"), url("/fonts/sansation/Sansation-Regular-webfont.woff2") format("woff2"), url("/fonts/sansation/Sansation-Regular-webfont.woff") format("woff"), url("/fonts/sansation/Sansation-Regular-webfont.ttf") format("truetype"), url("/fonts/sansation/Sansation-Regular-webfont.svg#Sansation") format("svg");
+  font-weight: normal;
+  font-style: normal; }
